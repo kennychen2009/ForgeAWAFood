@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "awa_snack:blocks/crafting_table_buttom",
+    "up": "awa_snack:blocks/crafting_table_top",
+    "north": "awa_snack:blocks/crafting_table_side",
+    "east": "awa_snack:blocks/crafting_table_side",
+    "south": "awa_snack:blocks/crafting_table_side",
+    "west": "awa_snack:blocks/crafting_table_side",
+    "particle": "awa_snack:blocks/crafting_table_buttom"
+  }
+}

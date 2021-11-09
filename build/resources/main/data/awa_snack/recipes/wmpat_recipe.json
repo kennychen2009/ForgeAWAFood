@@ -1,0 +1,42 @@
+{
+  "group": "awa_snack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma_cream"
+    },
+    "1": {
+      "tag": "forge:heads"
+    },
+    "2": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "3": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "4": {
+      "item": "minecraft:melon"
+    },
+    "5": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "6": {
+      "item": "minecraft:nether_wart"
+    },
+    "7": {
+      "item": "minecraft:glass_bottle"
+    },
+    "8": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "awa_snack:watermelon_pineapple_tea",
+    "count": 1
+  }
+}
