@@ -30,6 +30,10 @@
           "inputLimit": {
             "value": ""
           },
+          "color": {
+            "value": -16737895,
+            "falpha": 0.0
+          },
           "id": 1,
           "disableStackInteraction": false,
           "dropItemsWhenNotBound": true,
@@ -43,6 +47,10 @@
         "data": {
           "inputLimit": {
             "value": ""
+          },
+          "color": {
+            "value": -10092493,
+            "falpha": 0.0
           },
           "id": 3,
           "disableStackInteraction": false,
@@ -58,6 +66,10 @@
           "inputLimit": {
             "value": ""
           },
+          "color": {
+            "value": -13434778,
+            "falpha": 0.0
+          },
           "id": 4,
           "disableStackInteraction": false,
           "dropItemsWhenNotBound": true,
@@ -72,6 +84,10 @@
           "inputLimit": {
             "value": ""
           },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
           "id": 5,
           "disableStackInteraction": false,
           "dropItemsWhenNotBound": true,
@@ -85,6 +101,10 @@
         "data": {
           "inputLimit": {
             "value": ""
+          },
+          "color": {
+            "value": -6711040,
+            "falpha": 0.0
           },
           "id": 2,
           "disableStackInteraction": false,
@@ -117,7 +137,7 @@
           "width": 35,
           "height": 20,
           "name": "»s§@",
-          "x": 249,
+          "x": 261,
           "y": 61
         }
       },
@@ -125,14 +145,14 @@
         "type": "outputslot",
         "data": {
           "color": {
-            "value": -10066330,
+            "value": -26266,
             "falpha": 0.0
           },
           "id": 6,
           "disableStackInteraction": false,
           "dropItemsWhenNotBound": true,
           "name": "Slot #6",
-          "x": 258,
+          "x": 269,
           "y": 93
         }
       }

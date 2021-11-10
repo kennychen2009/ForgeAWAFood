@@ -86,7 +86,7 @@ public class CounterGUIGuiWindow extends ContainerScreen<CounterGUIGui.GuiContai
 	public void init(Minecraft minecraft, int width, int height) {
 		super.init(minecraft, width, height);
 		minecraft.keyboardListener.enableRepeatEvents(true);
-		this.addButton(new Button(this.guiLeft + 123, this.guiTop + 24, 35, 20, new StringTextComponent("製作"), e -> {
+		this.addButton(new Button(this.guiLeft + 135, this.guiTop + 24, 35, 20, new StringTextComponent("製作"), e -> {
 			if (true) {
 				AwaSnackMod.PACKET_HANDLER.sendToServer(new CounterGUIGui.ButtonPressedMessage(0, x, y, z));
 				CounterGUIGui.handleButtonAction(entity, 0, x, y, z);

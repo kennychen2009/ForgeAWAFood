@@ -117,9 +117,14 @@
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
+    "zh_tw": {
       "block.awa_snack.counter": "料理台",
       "item.awa_snack.watermelon_pineapple_tea": "西瓜鳳梨茶",
+      "itemGroup.tabaw_asnack": "awa小吃"
+    },
+    "en_us": {
+      "block.awa_snack.counter": "Counter",
+      "item.awa_snack.watermelon_pineapple_tea": "WatermelonPineappleTea",
       "itemGroup.tabaw_asnack": "AWAsnack"
     }
   },

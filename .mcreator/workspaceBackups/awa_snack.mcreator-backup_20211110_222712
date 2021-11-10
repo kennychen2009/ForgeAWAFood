@@ -95,14 +95,42 @@
           }
         ]
       }
+    },
+    {
+      "name": "CounterCrafting",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "counter_crafting",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Rice",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rice"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
+    "zh_tw": {
+      "item.awa_snack.rice": "Rice",
       "block.awa_snack.counter": "料理台",
       "item.awa_snack.watermelon_pineapple_tea": "西瓜鳳梨茶",
+      "itemGroup.tabaw_asnack": "awa小吃"
+    },
+    "en_us": {
+      "item.awa_snack.rice": "Rice",
+      "block.awa_snack.counter": "Counter",
+      "item.awa_snack.watermelon_pineapple_tea": "WatermelonPineappleTea",
       "itemGroup.tabaw_asnack": "AWAsnack"
     }
   },

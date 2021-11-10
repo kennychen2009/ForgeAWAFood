@@ -36,7 +36,7 @@ renderClouds:false
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:localhost:25463
-lang:en_us
+lang:zh_tw
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0

@@ -126,7 +126,7 @@ public class CounterGUIGui extends AwaSnackModElements.ModElement {
 			}));
 			this.customSlots.put(2, this.addSlot(new SlotItemHandler(internal, 2, 97, 25) {
 			}));
-			this.customSlots.put(6, this.addSlot(new SlotItemHandler(internal, 6, 133, 57) {
+			this.customSlots.put(6, this.addSlot(new SlotItemHandler(internal, 6, 144, 57) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
