@@ -35,12 +35,31 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "watermelon_pineapple_tea"
+    },
+    {
+      "name": "WmpatRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wmpat_recipe"
+    },
+    {
+      "name": "Counter",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "counter"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.awa_snack.counter": "料理台",
       "item.awa_snack.watermelon_pineapple_tea": "西瓜鳳梨茶",
       "itemGroup.tabaw_asnack": "AWAsnack"
     }
@@ -51,7 +70,7 @@
   },
   "workspaceSettings": {
     "modid": "awa_snack",
-    "modName": "awa小吃",
+    "modName": "AWASnack",
     "version": "1.0.0",
     "author": "Administrator, MCreator",
     "websiteURL": "https://mcreator.net",
@@ -63,6 +82,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "me.kuan.awasnack",
     "lockBaseModFiles": false
   },

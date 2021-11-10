@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Counter",
+    "name": "®Æ²z¥x",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -121,6 +121,9 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
+    "onRightClicked": {
+      "name": "CounterOnBlockRightClicked"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
