@@ -1,6 +1,7 @@
 {
   "item.awa_snack.rice": "Rice",
   "block.awa_snack.counter": "Counter",
+  "item.awa_snack.omurice": "Omurice",
   "item.awa_snack.watermelon_pineapple_tea": "WatermelonPineappleTea",
   "itemGroup.tabaw_asnack": "AWASnack"
 }
