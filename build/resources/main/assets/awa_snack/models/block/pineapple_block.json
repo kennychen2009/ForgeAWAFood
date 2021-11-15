@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "awa_snack:blocks/pineapple_block",
+    "particle": "awa_snack:blocks/pineapple_block"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "awa_snack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:egg"
+    },
+    "1": {
+      "item": "minecraft:egg"
+    },
+    "2": {
+      "item": "minecraft:egg"
+    },
+    "3": {
+      "item": "minecraft:egg"
+    },
+    "4": {
+      "item": "awa_snack:rice"
+    },
+    "5": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "awa_snack:omurice",
+    "count": 1
+  }
+}
