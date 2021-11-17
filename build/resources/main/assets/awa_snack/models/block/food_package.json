@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "awa_snack:blocks/foodpackage",
+    "up": "awa_snack:blocks/foodpackage",
+    "north": "awa_snack:blocks/foodpackagenormal",
+    "east": "awa_snack:blocks/foodpackagenormal",
+    "south": "awa_snack:blocks/foodpackagenormal",
+    "west": "awa_snack:blocks/foodpackagenormal",
+    "particle": "awa_snack:blocks/foodpackage"
+  }
+}

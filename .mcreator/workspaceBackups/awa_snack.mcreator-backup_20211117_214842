@@ -148,26 +148,48 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pineapple"
+    },
+    {
+      "name": "PineappleBlock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pineapple_block"
+    },
+    {
+      "name": "BlackTea",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_tea"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "zh_tw": {
-      "item.awa_snack.pineapple": "Pineapple",
+      "item.awa_snack.pineapple": "鳳梨",
       "item.awa_snack.rice": "白飯",
       "block.awa_snack.counter": "料理台",
+      "block.awa_snack.pineapple_block": "鳳梨方塊",
       "item.awa_snack.omurice": "蛋包飯",
       "item.awa_snack.watermelon_pineapple_tea": "西瓜鳳梨茶",
-      "itemGroup.tabaw_asnack": "awa小吃"
+      "itemGroup.tabaw_asnack": "awa小吃",
+      "item.awa_snack.black_tea": "紅茶"
     },
     "en_us": {
       "item.awa_snack.pineapple": "Pineapple",
       "item.awa_snack.rice": "Rice",
       "block.awa_snack.counter": "Counter",
+      "block.awa_snack.pineapple_block": "Pineapple Block",
       "item.awa_snack.omurice": "Omurice",
       "item.awa_snack.watermelon_pineapple_tea": "WatermelonPineappleTea",
-      "itemGroup.tabaw_asnack": "AWASnack"
+      "itemGroup.tabaw_asnack": "AWASnack",
+      "item.awa_snack.black_tea": "Black Tea"
     }
   },
   "foldersRoot": {
@@ -177,9 +199,9 @@
   "workspaceSettings": {
     "modid": "awa_snack",
     "modName": "AWASnack",
-    "version": "1.0.0",
-    "author": "Administrator, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "version": "0.3.3",
+    "description": "優質模組",
+    "author": "Kuan",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -188,7 +210,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "Made by Mcreator from Kuan in Taiwan",
     "modElementsPackage": "me.kuan.awasnack",
     "lockBaseModFiles": false
   },

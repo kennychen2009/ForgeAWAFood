@@ -166,6 +166,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "black_tea"
+    },
+    {
+      "name": "FoodPackage",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "food_package"
+    },
+    {
+      "name": "FoodPackageRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "food_package_recipe"
     }
   ],
   "variable_elements": [],
@@ -176,16 +194,18 @@
       "item.awa_snack.rice": "白飯",
       "block.awa_snack.counter": "料理台",
       "block.awa_snack.pineapple_block": "鳳梨方塊",
+      "block.awa_snack.food_package": "食物包",
       "item.awa_snack.omurice": "蛋包飯",
       "item.awa_snack.watermelon_pineapple_tea": "西瓜鳳梨茶",
       "itemGroup.tabaw_asnack": "awa小吃",
-      "item.awa_snack.black_tea": "Black Tea"
+      "item.awa_snack.black_tea": "紅茶"
     },
     "en_us": {
       "item.awa_snack.pineapple": "Pineapple",
       "item.awa_snack.rice": "Rice",
       "block.awa_snack.counter": "Counter",
       "block.awa_snack.pineapple_block": "Pineapple Block",
+      "block.awa_snack.food_package": "Food Package",
       "item.awa_snack.omurice": "Omurice",
       "item.awa_snack.watermelon_pineapple_tea": "WatermelonPineappleTea",
       "itemGroup.tabaw_asnack": "AWASnack",
@@ -199,8 +219,9 @@
   "workspaceSettings": {
     "modid": "awa_snack",
     "modName": "AWASnack",
-    "version": "1.0.0",
-    "author": "Administrator, MCreator",
+    "version": "0.4",
+    "description": "優質模組",
+    "author": "Kuan",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -210,7 +231,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "Made by Mcreator from Kuan in Taiwan",
     "modElementsPackage": "me.kuan.awasnack",
     "lockBaseModFiles": false
   },

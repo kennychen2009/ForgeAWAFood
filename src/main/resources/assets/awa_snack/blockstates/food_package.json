@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "awa_snack:block/food_package"
+    }
+  }
+}

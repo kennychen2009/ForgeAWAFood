@@ -4,11 +4,14 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="awa_snack"
-version="1.0.0"
+version="0.4"
 displayName="AWASnack"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Made by Mcreator from Kuan in Taiwan"
 displayURL="https://mcreator.net"
-authors="Administrator, MCreator"
+authors="Kuan"
+description='''
+Àu½è¼Ò²Õ
+'''
 
 [[dependencies.awa_snack]]
     modId="minecraft"

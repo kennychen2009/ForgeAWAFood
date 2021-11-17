@@ -9,7 +9,7 @@
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {
-      "value": "FOOD"
+      "value": "CUSTOM:AWAsnack"
     },
     "stackSize": 64,
     "nutritionalValue": 4,
